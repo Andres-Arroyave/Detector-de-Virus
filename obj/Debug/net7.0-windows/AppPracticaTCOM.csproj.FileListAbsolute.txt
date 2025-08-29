@@ -1,0 +1,16 @@
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.Ventana.resources
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.csproj.GenerateResource.cache
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.AssemblyInfoInputs.cache
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.AssemblyInfo.cs
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.csproj.CoreCompileInputs.cache
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\bin\Debug\net7.0-windows\AppPracticaTCOM.exe
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\bin\Debug\net7.0-windows\AppPracticaTCOM.deps.json
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\bin\Debug\net7.0-windows\AppPracticaTCOM.runtimeconfig.json
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\bin\Debug\net7.0-windows\AppPracticaTCOM.dll
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\bin\Debug\net7.0-windows\AppPracticaTCOM.pdb
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.dll
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\refint\AppPracticaTCOM.dll
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.pdb
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\AppPracticaTCOM.genruntimeconfig.cache
+C:\Users\arroy\OneDrive - UPB\Documentos\AppPracticaTCOM-master\AppPracticaTCOM-master\obj\Debug\net7.0-windows\ref\AppPracticaTCOM.dll
