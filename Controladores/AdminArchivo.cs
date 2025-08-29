@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -7,7 +7,7 @@ using System.IO;
 
 namespace AppPracticaTCOM.Controladores
 {
-    /// <summary>
+
     /// Clase para administrar operaciones de archivos
     /// Programa: AppPracticaTCOM
     // Autores: Mateo Polanco Alvarez | Carlos Andres Arroyave
